@@ -52,10 +52,8 @@ Siempre estoy en busca de mejorar mis habilidades y aprender nuevas tecnologías
 
 ## 📫 Contacto  
 
-Si quieres colaborar o simplemente charlar sobre desarrollo, tecnología o Neuroplay, aquí me puedes encontrar:  
+Si quieres colaborar o simplemente charlar sobre desarrollo, tecnología o darme feedback sobre alguno de mis proyectos, aquí me puedes encontrar:  
 
-📧 Email: [TuEmail@example.com](mailto:TuEmail@example.com)  
-💼 LinkedIn: [TuLinkedIn](#)  
-🐦 Twitter: [TuTwitter](#)  
+📧 Email: [natiworlds@gmail.com](mailto:natiworlds@gmail.com)  
 
 ¡Gracias por visitar mi perfil! 🚀✨  
